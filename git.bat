@@ -1,7 +1,7 @@
 #!/bin/bash
 # by: Rijo
 # Date: 21DEC22
-# Function: Perform a commit to GITHUB
+# Function: Perform a commit to GIT
 # Script: AddCommitPush.sh
 clear
 git status
